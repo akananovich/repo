@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
     spec.name                     = 'UAnalytics'
     spec.version                  = '0.0.3'
     spec.homepage                 = 'https://www.intermedia.com'
-    spec.source                   = { :http => 'https://github.com/akananovich/blabla/releases/download/0.0.2/UAnalytics.xcframework.zip' }
+    spec.source                   = { :http => 'https://github.com/Intermedia-Internal/UAnalytics/releases/download/0.0.2/UAnalytics.xcframework.zip' }
     spec.authors                  = 'Intermedia'
     spec.license                  = 'Copyright © 2024 Intermedia LLC. All rights reserved.'
     spec.summary                  = 'UAnalytics library'
